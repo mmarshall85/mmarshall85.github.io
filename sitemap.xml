@@ -2,83 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.halevai.net/index.html</loc>
-    <lastmod>2020-08-05</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/paul-gilmore-gcy2hsga-ls-unsplash.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/karsten-wurth-ubgypmbmyp8-unsplash.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/ahmet-hamdi-pokri39sxsy-unsplash.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/oceans.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/transport.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/education-crop-u28060.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/food2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/material-crop-u28066.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/education-crop-u280602.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/material-crop-u280662.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/oceans524x349.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/transport566x368.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/education-crop-u280603.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/food2526x374.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/material-crop-u280663.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/oceans-crop-u28064.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/transport-crop-u28070.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/education-crop-u280604.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/food2-crop-u28062.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/material573x269.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/oceans-crop-u280642.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/transport-crop-u280702.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/education-crop-u280605.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/food2-crop-u280622.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.halevai.net/images/material-crop-u280664.jpg</image:loc>
-    </image:image>
   </url>
 </urlset>
