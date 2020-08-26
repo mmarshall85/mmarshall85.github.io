@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x" timestamp="1598400887260">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x" timestamp="1598423714849">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="515650434" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4291970240" ref="index"/>
-    <file name="index.css" crc="3903983103" ref="index"/>
-    <file name="nomq_index.css" crc="4011866111" ref="index"/>
+    <file name="master_a-master.css" crc="418311950" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3981568755" ref="index"/>
+    <file name="index.css" crc="201654939" ref="index"/>
+    <file name="nomq_index.css" crc="3864514135" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -210,30 +210,14 @@
     <file name="geoffrey-u34412-fr.jpg" crc="3996125433" ref="index"/>
     <file name="hande-u34404-fr.jpg" crc="501297336" ref="index"/>
     <file name="steven-u34403-fr.jpg" crc="49740680" ref="index"/>
-    <file name="frank_bio2.png" crc="181847781" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="alain_bio2.png" crc="3895621927" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="avi_bio2.png" crc="205959998" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mike_bio2.png" crc="4143683862" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ayana_bio2.png" crc="3975504729" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="geoffrey_bio2.png" crc="373499701" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hande_bio2.png" crc="4142972830" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="steven_bio2.png" crc="446601850" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="frank_bio3-u34418-fr.png" crc="221537035" ref="index"/>
+    <file name="alain_bio3-u34436-fr.png" crc="208506192" ref="index"/>
+    <file name="avi_bio3-u34432-fr.png" crc="168136949" ref="index"/>
+    <file name="mike_bio3-u34428-fr.png" crc="201542554" ref="index"/>
+    <file name="ayana_bio3-u34414-fr.png" crc="208754222" ref="index"/>
+    <file name="geoffrey_bio3-u34422-fr.png" crc="202398553" ref="index"/>
+    <file name="hande_bio3-u34434-fr.png" crc="3916545184" ref="index"/>
+    <file name="steven_bio3-u34430-fr.png" crc="3964175573" ref="index"/>
     <file name="amfar-u34242-fr.png" crc="4173386961" ref="index"/>
     <file name="artbasel-u34640-fr.png" crc="3758482239" ref="index"/>
     <file name="unicef-u34450-fr.png" crc="122396089" ref="index"/>
@@ -315,14 +299,14 @@
     <file name="geoffrey-u34412-fr2.jpg" crc="37803988" ref="index"/>
     <file name="hande-u34404-fr2.jpg" crc="4268802466" ref="index"/>
     <file name="steven-u34403-fr2.jpg" crc="4098620191" ref="index"/>
-    <file name="frank_bio2-u34418-fr.png" crc="456268665" ref="index"/>
-    <file name="alain_bio2-u34436-fr.png" crc="451167653" ref="index"/>
-    <file name="avi_bio2-u34432-fr.png" crc="100559285" ref="index"/>
-    <file name="mike_bio2-u34428-fr.png" crc="3970507040" ref="index"/>
-    <file name="ayana_bio2-u34414-fr.png" crc="502716445" ref="index"/>
-    <file name="geoffrey_bio2-u34422-fr.png" crc="20691953" ref="index"/>
-    <file name="hande_bio2-u34434-fr.png" crc="3835765506" ref="index"/>
-    <file name="steven_bio2-u34430-fr.png" crc="479844343" ref="index"/>
+    <file name="frank_bio3-u34418-fr2.png" crc="442082648" ref="index"/>
+    <file name="alain_bio3-u34436-fr2.png" crc="502796491" ref="index"/>
+    <file name="avi_bio3-u34432-fr2.png" crc="3958396562" ref="index"/>
+    <file name="mike_bio3-u34428-fr2.png" crc="393876719" ref="index"/>
+    <file name="ayana_bio3-u34414-fr2.png" crc="4082602378" ref="index"/>
+    <file name="geoffrey_bio3-u34422-fr2.png" crc="478251562" ref="index"/>
+    <file name="hande_bio3-u34434-fr2.png" crc="3778165682" ref="index"/>
+    <file name="steven_bio3-u34430-fr2.png" crc="113684073" ref="index"/>
     <file name="amfar-u34242-fr2.png" crc="142432841" ref="index"/>
     <file name="artbasel-u34640-fr2.png" crc="109151472" ref="index"/>
     <file name="unicef-u34450-fr2.png" crc="400334260" ref="index"/>
@@ -388,14 +372,14 @@
     <file name="geoffrey-u34412-fr3.jpg" crc="405576632" ref="index"/>
     <file name="hande-u34404-fr3.jpg" crc="350206784" ref="index"/>
     <file name="steven-u34403-fr3.jpg" crc="4216705820" ref="index"/>
-    <file name="frank_bio2-u34418-fr2.png" crc="508975152" ref="index"/>
-    <file name="alain_bio2-u34436-fr2.png" crc="428502901" ref="index"/>
-    <file name="avi_bio2-u34432-fr2.png" crc="281205902" ref="index"/>
-    <file name="mike_bio2-u34428-fr2.png" crc="185832373" ref="index"/>
-    <file name="ayana_bio2-u34414-fr2.png" crc="4152976069" ref="index"/>
-    <file name="geoffrey_bio2-u34422-fr2.png" crc="482488663" ref="index"/>
-    <file name="hande_bio2-u34434-fr2.png" crc="4101603480" ref="index"/>
-    <file name="steven_bio2-u34430-fr2.png" crc="443058767" ref="index"/>
+    <file name="frank_bio3-u34418-fr3.png" crc="182732651" ref="index"/>
+    <file name="alain_bio3-u34436-fr3.png" crc="4235087696" ref="index"/>
+    <file name="avi_bio3-u34432-fr3.png" crc="4101672769" ref="index"/>
+    <file name="mike_bio3-u34428-fr3.png" crc="4044030266" ref="index"/>
+    <file name="ayana_bio3-u34414-fr3.png" crc="324745987" ref="index"/>
+    <file name="geoffrey_bio3-u34422-fr3.png" crc="4183374330" ref="index"/>
+    <file name="hande_bio3-u34434-fr3.png" crc="419921837" ref="index"/>
+    <file name="steven_bio3-u34430-fr3.png" crc="536054794" ref="index"/>
     <file name="amfar.png" crc="4138576001" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -523,14 +507,14 @@
     <file name="geoffrey-u34412-fr4.jpg" crc="341413264" ref="index"/>
     <file name="hande-u34404-fr4.jpg" crc="3951055618" ref="index"/>
     <file name="steven-u34403-fr4.jpg" crc="86272603" ref="index"/>
-    <file name="frank_bio2-u34418-fr3.png" crc="3926157539" ref="index"/>
-    <file name="alain_bio2-u34436-fr3.png" crc="3763676606" ref="index"/>
-    <file name="avi_bio2-u34432-fr3.png" crc="149959457" ref="index"/>
-    <file name="mike_bio2-u34428-fr3.png" crc="3760131367" ref="index"/>
-    <file name="ayana_bio2-u34414-fr3.png" crc="3770402209" ref="index"/>
-    <file name="geoffrey_bio2-u34422-fr3.png" crc="516414240" ref="index"/>
-    <file name="hande_bio2-u34434-fr3.png" crc="446996352" ref="index"/>
-    <file name="steven_bio2-u34430-fr3.png" crc="3960320478" ref="index"/>
+    <file name="frank_bio3-u34418-fr4.png" crc="4280527175" ref="index"/>
+    <file name="alain_bio3-u34436-fr4.png" crc="4197912478" ref="index"/>
+    <file name="avi_bio3-u34432-fr4.png" crc="339209813" ref="index"/>
+    <file name="mike_bio3-u34428-fr4.png" crc="3768520635" ref="index"/>
+    <file name="ayana_bio3-u34414-fr4.png" crc="123689031" ref="index"/>
+    <file name="geoffrey_bio3-u34422-fr4.png" crc="3828679570" ref="index"/>
+    <file name="hande_bio3-u34434-fr4.png" crc="57166305" ref="index"/>
+    <file name="steven_bio3-u34430-fr4.png" crc="3840297272" ref="index"/>
     <file name="u39515-55.png" crc="18403026" ref="index"/>
     <file name="earth_and_limb_m1199291564l_color_2stretch_mask_0-u34397-fr4.jpg" crc="374385239" ref="index"/>
     <file name="female_scientist_gettyimages_554996401-u34449-fr4.jpg" crc="210746302" ref="index"/>
@@ -606,14 +590,14 @@
     <file name="steven.jpg" crc="146737602" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frank_bio2-u34418-fr4.png" crc="341585773" ref="index"/>
-    <file name="alain_bio2-u34436-fr4.png" crc="279222009" ref="index"/>
-    <file name="avi_bio2-u34432-fr4.png" crc="399100916" ref="index"/>
-    <file name="mike_bio2-u34428-fr4.png" crc="4263830435" ref="index"/>
-    <file name="ayana_bio2-u34414-fr4.png" crc="169891253" ref="index"/>
-    <file name="geoffrey_bio2-u34422-fr4.png" crc="4041433313" ref="index"/>
-    <file name="hande_bio2-u34434-fr4.png" crc="3814093794" ref="index"/>
-    <file name="steven_bio2-u34430-fr4.png" crc="3911232762" ref="index"/>
+    <file name="frank_bio3-u34418-fr5.png" crc="133404527" ref="index"/>
+    <file name="alain_bio3-u34436-fr5.png" crc="130589034" ref="index"/>
+    <file name="avi_bio3-u34432-fr5.png" crc="3942862855" ref="index"/>
+    <file name="mike_bio3-u34428-fr5.png" crc="391343525" ref="index"/>
+    <file name="ayana_bio3-u34414-fr5.png" crc="133684787" ref="index"/>
+    <file name="geoffrey_bio3-u34422-fr5.png" crc="506612579" ref="index"/>
+    <file name="hande_bio3-u34434-fr5.png" crc="4294225739" ref="index"/>
+    <file name="steven_bio3-u34430-fr5.png" crc="351381814" ref="index"/>
     <file name="amfar-u34242-fr3.png" crc="4286294198" ref="index"/>
     <file name="artbasel-u34640-fr3.png" crc="3855101053" ref="index"/>
     <file name="unicef-u34450-fr3.png" crc="8136050" ref="index"/>
@@ -632,5 +616,5 @@
     <file name="evian-u34617-fr3.png" crc="161064027" ref="index"/>
     <file name="aeg-u34606-fr3.png" crc="500792332" ref="index"/>
   </folder>
-  <file name="index.html" crc="522130343" seo="true" mt="1598400578591" redirect="true"/>
+  <file name="index.html" crc="4280025699" seo="true" mt="1598423439765" redirect="true"/>
 </manifest>
