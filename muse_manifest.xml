@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x" timestamp="1599029540878">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x" timestamp="1599068539045">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="486557269" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="421653352" ref="index"/>
-    <file name="index.css" crc="4052606609" ref="index"/>
-    <file name="nomq_index.css" crc="4205074160" ref="index"/>
+    <file name="master_a-master.css" crc="530289020" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3981568755" ref="index"/>
+    <file name="index.css" crc="233830697" ref="index"/>
+    <file name="nomq_index.css" crc="138163548" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -629,5 +629,5 @@
     <file name="evian-u34617-fr3.png" crc="161064027" ref="index"/>
     <file name="aeg-u34606-fr3.png" crc="500792332" ref="index"/>
   </folder>
-  <file name="index.html" crc="250905145" seo="true" mt="1599029306488" redirect="true"/>
+  <file name="index.html" crc="268912348" seo="true" mt="1599067301335" redirect="true"/>
 </manifest>
