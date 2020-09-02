@@ -1,16 +1,19 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x" timestamp="1598424373228">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x" timestamp="1599029540878">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="418311950" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3981568755" ref="index"/>
-    <file name="index.css" crc="201654939" ref="index"/>
-    <file name="nomq_index.css" crc="3864514135" ref="index"/>
+    <file name="master_a-master.css" crc="486557269" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="421653352" ref="index"/>
+    <file name="index.css" crc="4052606609" ref="index"/>
+    <file name="nomq_index.css" crc="4205074160" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
     <file name="fontawesome-webfont.eot" crc="415170694"/>
     <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="assets">
+    <file name="slider3_960x.jpg" crc="509798604" seo="true" mt="1599016245000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -52,15 +55,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="transport.jpg" crc="4160986437" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="education2.jpg" crc="3852798439" ref="index"/>
+    <file name="soleilyachts.jpg" crc="485293959" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="education2.jpg" crc="4065177963" ref="index"/>
     <file name="food.jpg" crc="277457625" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -75,10 +79,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lc-slider-1.png" crc="320691438" ref="index">
+    <file name="leanorb.jpg" crc="3909173800" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="z1.jpg" crc="345199684" ref="index">
+    <file name="pangaia02.jpg" crc="4207478862" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="kollectiv.jpg" crc="4254668163" ref="index">
@@ -91,10 +95,10 @@
     <file name="44_home-u38845-r-fr.png" crc="395912572" ref="index"/>
     <file name="organic soap-u38842-fr.jpg" crc="307827386" ref="index"/>
     <file name="organic soap-u38842-r-fr.png" crc="373693819" ref="index"/>
-    <file name="lc-slider-1-u38841-fr.png" crc="3942419988" ref="index"/>
-    <file name="lc-slider-1-u38841-r-fr.png" crc="262667632" ref="index"/>
-    <file name="z1-u38844-fr.jpg" crc="332715882" ref="index"/>
-    <file name="z1-u38844-r-fr.png" crc="3852288774" ref="index"/>
+    <file name="leanorb-u38841-fr.jpg" crc="244581581" ref="index"/>
+    <file name="leanorb-u38841-r-fr.png" crc="173677580" ref="index"/>
+    <file name="pangaia-u38844-fr.jpg" crc="4026845379" ref="index"/>
+    <file name="pangaia-u38844-r-fr.png" crc="3807217038" ref="index"/>
     <file name="kollectiv-u38843-fr.jpg" crc="4028124134" ref="index"/>
     <file name="kollectiv-u38843-r-fr.png" crc="133120644" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38840-fr.jpg" crc="4131260684" ref="index"/>
@@ -228,6 +232,7 @@
     <file name="endeavor-u34448-fr.png" crc="276690801" ref="index"/>
     <file name="pharrellwilliams-u34272-fr.png" crc="348963981" ref="index"/>
     <file name="leodicapriofoundation-u34620-fr.png" crc="4103324695" ref="index"/>
+    <file name="grandsoleil2-u42398-fr.png" crc="4071639206" ref="index"/>
     <file name="citi-u34616-fr.png" crc="3873651484" ref="index"/>
     <file name="kollectiv-u34610-fr.png" crc="4015446836" ref="index"/>
     <file name="f1-u34306-fr.png" crc="3782110811" ref="index"/>
@@ -238,6 +243,7 @@
     <file name="evian-u34617-fr.png" crc="151990292" ref="index"/>
     <file name="aeg-u34606-fr.png" crc="102189350" ref="index"/>
     <file name="designmiami-u34275-fr.png" crc="14394635" ref="index"/>
+    <file name="leanorb1-u42413-fr.png" crc="3851508389" ref="index"/>
     <file name="halevailogowhite.png" crc="42281850" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -257,18 +263,18 @@
     <file name="female_scientist_gettyimages_554996401-u34449-fr.jpg" crc="4197577979" ref="index"/>
     <file name="44_home-u38836-fr.jpg" crc="71137793" ref="index"/>
     <file name="organic soap-u38834-fr.jpg" crc="46637668" ref="index"/>
-    <file name="lc-slider-1-u38831-fr.png" crc="3873334245" ref="index"/>
-    <file name="z1-u38835-fr.jpg" crc="267117721" ref="index"/>
+    <file name="leanorb-u38831-fr.jpg" crc="424418114" ref="index"/>
+    <file name="pangaia02-u38835-fr.jpg" crc="4081788918" ref="index"/>
     <file name="kollectiv-u38833-fr.jpg" crc="443389130" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38832-fr.jpg" crc="4253616381" ref="index"/>
     <file name="44_home-u38845-fr2.jpg" crc="3859862133" ref="index"/>
     <file name="44_home-u38845-r-fr2.png" crc="432629480" ref="index"/>
     <file name="organic soap-u38842-fr2.jpg" crc="519007944" ref="index"/>
     <file name="organic soap-u38842-r-fr2.png" crc="203514521" ref="index"/>
-    <file name="lc-slider-1-u38841-fr2.png" crc="4099586594" ref="index"/>
-    <file name="lc-slider-1-u38841-r-fr2.png" crc="4211649155" ref="index"/>
-    <file name="z1-u38844-fr2.jpg" crc="3840301643" ref="index"/>
-    <file name="z1-u38844-r-fr2.png" crc="141710397" ref="index"/>
+    <file name="leanorb-u38841-fr2.jpg" crc="72556529" ref="index"/>
+    <file name="leanorb-u38841-r-fr2.png" crc="302581340" ref="index"/>
+    <file name="pangaia-u38844-fr2.jpg" crc="3812432388" ref="index"/>
+    <file name="pangaia-u38844-r-fr2.png" crc="206116142" ref="index"/>
     <file name="kollectiv-u38843-fr2.jpg" crc="425347068" ref="index"/>
     <file name="kollectiv-u38843-r-fr2.png" crc="4017714310" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38840-fr2.jpg" crc="297646384" ref="index"/>
@@ -317,6 +323,7 @@
     <file name="endeavor-u34448-fr2.png" crc="369889444" ref="index"/>
     <file name="pharrellwilliams-u34272-fr2.png" crc="525854620" ref="index"/>
     <file name="leodicapriofoundation-u34620-fr2.png" crc="4153282392" ref="index"/>
+    <file name="grandsoleil2-u42398-fr2.png" crc="4029803090" ref="index"/>
     <file name="citi-u34616-fr2.png" crc="4043071571" ref="index"/>
     <file name="kollectiv-u34610-fr2.png" crc="339473475" ref="index"/>
     <file name="f1-u34306-fr2.png" crc="251396744" ref="index"/>
@@ -327,22 +334,23 @@
     <file name="evian-u34617-fr2.png" crc="3953827335" ref="index"/>
     <file name="aeg-u34606-fr2.png" crc="7906558" ref="index"/>
     <file name="designmiami-u34275-fr2.png" crc="341024077" ref="index"/>
+    <file name="leanorb1-u42413-fr2.png" crc="3787680547" ref="index"/>
     <file name="u39515-53.png" crc="393089112" ref="index"/>
     <file name="earth_and_limb_m1199291564l_color_2stretch_mask_0-u34397-fr2.jpg" crc="299138531" ref="index"/>
     <file name="female_scientist_gettyimages_554996401-u34449-fr2.jpg" crc="313424005" ref="index"/>
     <file name="44_home-u38836-fr2.jpg" crc="320917393" ref="index"/>
     <file name="organic soap-u38834-fr2.jpg" crc="522816815" ref="index"/>
-    <file name="lc-slider-1-u38831-fr2.png" crc="3990880942" ref="index"/>
-    <file name="z1-u38835-fr2.jpg" crc="293011120" ref="index"/>
+    <file name="leanorb-u38831-fr2.jpg" crc="3828522445" ref="index"/>
+    <file name="pangaia02-u38835-fr2.jpg" crc="297771135" ref="index"/>
     <file name="kollectiv-u38833-fr2.jpg" crc="74940625" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38832-fr2.jpg" crc="462361167" ref="index"/>
     <file name="44_home-u38845-fr3.jpg" crc="3788331172" ref="index"/>
     <file name="44_home-u38845-r-fr3.png" crc="368785095" ref="index"/>
     <file name="organic soap-u38842-r-fr3.png" crc="4164069166" ref="index"/>
-    <file name="lc-slider-1-u38841-fr3.png" crc="4074379675" ref="index"/>
-    <file name="lc-slider-1-u38841-r-fr3.png" crc="219780796" ref="index"/>
-    <file name="z1-u38844-fr3.jpg" crc="3762989606" ref="index"/>
-    <file name="z1-u38844-r-fr3.png" crc="449121257" ref="index"/>
+    <file name="leanorb-u38841-fr3.jpg" crc="310877300" ref="index"/>
+    <file name="leanorb-u38841-r-fr3.png" crc="297240905" ref="index"/>
+    <file name="pangaia-u38844-fr3.jpg" crc="4121709592" ref="index"/>
+    <file name="pangaia-u38844-r-fr3.png" crc="4002809521" ref="index"/>
     <file name="kollectiv-u38843-fr3.jpg" crc="3918345974" ref="index"/>
     <file name="kollectiv-u38843-r-fr3.png" crc="501264658" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38840-fr3.jpg" crc="4184747747" ref="index"/>
@@ -448,6 +456,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="grandsoleil2.png" crc="306056165" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="aeg.png" crc="135660735" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -456,27 +468,32 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="leanorb1.png" crc="347030634" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u40103.png" crc="3790938784" ref="index"/>
     <file name="u40103-a.png" crc="4102240249" ref="index"/>
     <file name="u39515-54.png" crc="328582277" ref="index"/>
     <file name="earth_and_limb_m1199291564l_color_2stretch_mask_0-u34397-fr3.jpg" crc="4063723791" ref="index"/>
     <file name="female_scientist_gettyimages_554996401-u34449-fr3.jpg" crc="328698545" ref="index"/>
-    <file name="oceans-u39522-fr.jpg" crc="4110938755" ref="index"/>
-    <file name="transport-u39537-fr.jpg" crc="492184566" ref="index"/>
+    <file name="soleilyachts-u39537-fr.jpg" crc="319163351" ref="index"/>
     <file name="44_home-u38836-fr3.jpg" crc="4160085121" ref="index"/>
     <file name="organic soap-u38834-fr3.jpg" crc="105532953" ref="index"/>
-    <file name="lc-slider-1-u38831-fr3.png" crc="534924224" ref="index"/>
-    <file name="z1-u38835-fr3.jpg" crc="3790485924" ref="index"/>
+    <file name="leanorb-u38831-fr3.jpg" crc="4195526968" ref="index"/>
+    <file name="pangaia02-u38835-fr3.jpg" crc="3836896414" ref="index"/>
     <file name="kollectiv-u38833-fr3.jpg" crc="4191174157" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38832-fr3.jpg" crc="144979920" ref="index"/>
     <file name="44_home-u38845-fr4.jpg" crc="3923921853" ref="index"/>
     <file name="44_home-u38845-r-fr4.png" crc="3856091079" ref="index"/>
     <file name="organic soap-u38842-fr3.jpg" crc="4253782881" ref="index"/>
     <file name="organic soap-u38842-r-fr4.png" crc="416632098" ref="index"/>
-    <file name="lc-slider-1-u38841-fr4.png" crc="532106927" ref="index"/>
-    <file name="lc-slider-1-u38841-r-fr4.png" crc="341364533" ref="index"/>
-    <file name="z1-u38844-fr4.jpg" crc="4001234524" ref="index"/>
-    <file name="z1-u38844-r-fr4.png" crc="501540649" ref="index"/>
+    <file name="leanorb-u38841-fr4.jpg" crc="4282652489" ref="index"/>
+    <file name="leanorb-u38841-r-fr4.png" crc="4010179399" ref="index"/>
+    <file name="pangaia.jpg" crc="426528375" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pangaia-u38844-r-fr4.png" crc="4159228484" ref="index"/>
     <file name="kollectiv-u38843-fr4.jpg" crc="187719439" ref="index"/>
     <file name="kollectiv-u38843-r-fr4.png" crc="3773468939" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38840-fr4.jpg" crc="3936859827" ref="index"/>
@@ -518,25 +535,21 @@
     <file name="u39515-55.png" crc="18403026" ref="index"/>
     <file name="earth_and_limb_m1199291564l_color_2stretch_mask_0-u34397-fr4.jpg" crc="374385239" ref="index"/>
     <file name="female_scientist_gettyimages_554996401-u34449-fr4.jpg" crc="210746302" ref="index"/>
-    <file name="oceans-u39522-fr2.jpg" crc="507647289" ref="index"/>
-    <file name="transport-u39537-fr2.jpg" crc="392885874" ref="index"/>
-    <file name="education2-u39552-fr.jpg" crc="26030168" ref="index"/>
-    <file name="food-u39583-fr.jpg" crc="3831876626" ref="index"/>
-    <file name="material-u39590-fr.jpg" crc="236874515" ref="index"/>
+    <file name="soleilyachts-u39537-fr2.jpg" crc="497676669" ref="index"/>
     <file name="44_home-u38836-fr4.jpg" crc="4175703948" ref="index"/>
     <file name="organic soap-u38834-fr4.jpg" crc="4018003122" ref="index"/>
-    <file name="lc-slider-1-u38831-fr4.png" crc="3996049672" ref="index"/>
-    <file name="z1-u38835-fr4.jpg" crc="500174320" ref="index"/>
+    <file name="leanorb-u38831-fr4.jpg" crc="4105763110" ref="index"/>
+    <file name="pangaia02-u38835-fr4.jpg" crc="3855666691" ref="index"/>
     <file name="kollectiv-u38833-fr4.jpg" crc="158778148" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38832-fr4.jpg" crc="440375670" ref="index"/>
     <file name="44_home-u38845-fr5.jpg" crc="226856055" ref="index"/>
     <file name="44_home-u38845-r-fr5.png" crc="4144780067" ref="index"/>
     <file name="organic soap-u38842-fr4.jpg" crc="485443431" ref="index"/>
     <file name="organic soap-u38842-r-fr5.png" crc="3909614165" ref="index"/>
-    <file name="lc-slider-1-u38841-fr5.png" crc="140668211" ref="index"/>
-    <file name="lc-slider-1-u38841-r-fr5.png" crc="305143013" ref="index"/>
-    <file name="z1-u38844-fr5.jpg" crc="4080682047" ref="index"/>
-    <file name="z1-u38844-r-fr5.png" crc="12627486" ref="index"/>
+    <file name="leanorb-u38841-fr5.jpg" crc="4196989573" ref="index"/>
+    <file name="leanorb-u38841-r-fr5.png" crc="508604727" ref="index"/>
+    <file name="pangaia-u38844-fr4.jpg" crc="498944632" ref="index"/>
+    <file name="pangaia-u38844-r-fr5.png" crc="56225164" ref="index"/>
     <file name="kollectiv-u38843-fr5.jpg" crc="284996174" ref="index"/>
     <file name="kollectiv-u38843-r-fr5.png" crc="4187401532" ref="index"/>
     <file name="header-aerial-fari-islands-the-ritz-carlton-maldives-farisislands0320-u38840-fr5.jpg" crc="449647014" ref="index"/>
@@ -616,5 +629,5 @@
     <file name="evian-u34617-fr3.png" crc="161064027" ref="index"/>
     <file name="aeg-u34606-fr3.png" crc="500792332" ref="index"/>
   </folder>
-  <file name="index.html" crc="4280025699" seo="true" mt="1598423439765" redirect="true"/>
+  <file name="index.html" crc="250905145" seo="true" mt="1599029306488" redirect="true"/>
 </manifest>
