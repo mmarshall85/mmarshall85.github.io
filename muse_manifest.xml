@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1600745841351">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1600746602193">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4075445215" ref="team:work:index:contact"/>
     <file name="nomq_preview_master_a-master.css" crc="458013778" ref="team:work:index:contact"/>
-    <file name="team.css" crc="3994309050" ref="team"/>
+    <file name="team.css" crc="3800169460" ref="team"/>
     <file name="nomq_team.css" crc="398963122" ref="team"/>
     <file name="iefonts_team.css" crc="3824530138" ref="team"/>
-    <file name="work.css" crc="3826488624" ref="work"/>
-    <file name="nomq_work.css" crc="148443284" ref="work"/>
+    <file name="work.css" crc="351032087" ref="work"/>
+    <file name="nomq_work.css" crc="211536294" ref="work"/>
     <file name="iefonts_work.css" crc="3824530138" ref="work"/>
     <file name="index.css" crc="3867295643" ref="index"/>
     <file name="nomq_index.css" crc="333199283" ref="index"/>
@@ -987,8 +987,8 @@
     <file name="u47509-55.png" crc="18403026" ref="contact"/>
     <file name="u47509-5_2x5.png" crc="199895926" ref="contact"/>
   </folder>
-  <file name="index.html" crc="4009741968" seo="true" mt="1600745596699" redirect="true"/>
-  <file name="team.html" crc="191808587" seo="true" mt="1600745596699" redirect="true"/>
-  <file name="work.html" crc="3897748327" seo="true" mt="1600745596699" redirect="true"/>
-  <file name="contact.html" crc="4204364567" seo="true" mt="1600745596699" redirect="true"/>
+  <file name="index.html" crc="4009741968" seo="true" mt="1600746491104" redirect="true"/>
+  <file name="team.html" crc="501985252" seo="true" mt="1600746299568" redirect="true"/>
+  <file name="work.html" crc="4220030359" seo="true" mt="1600746266968" redirect="true"/>
+  <file name="contact.html" crc="4204364567" seo="true" mt="1600746257600" redirect="true"/>
 </manifest>
