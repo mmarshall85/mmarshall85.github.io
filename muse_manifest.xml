@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1601424970293">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1601444904810">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4242325857" ref="team:work:contact:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="279813611" ref="team:work:contact:index"/>
-    <file name="team.css" crc="3947941589" ref="team"/>
-    <file name="nomq_team.css" crc="4016098927" ref="team"/>
-    <file name="iefonts_team.css" crc="3824530138" ref="team"/>
-    <file name="work.css" crc="85156719" ref="work"/>
-    <file name="nomq_work.css" crc="4197662095" ref="work"/>
-    <file name="iefonts_work.css" crc="3824530138" ref="work"/>
-    <file name="contact.css" crc="4029919512" ref="contact"/>
-    <file name="nomq_contact.css" crc="163902848" ref="contact"/>
+    <file name="master_a-master.css" crc="4057195632" ref="contact:index:team:work"/>
+    <file name="nomq_preview_master_a-master.css" crc="174378947" ref="contact:index:team:work"/>
+    <file name="contact.css" crc="4059826973" ref="contact"/>
+    <file name="nomq_contact.css" crc="4209197044" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="index.css" crc="3773477082" ref="index"/>
+    <file name="index.css" crc="42450885" ref="index"/>
     <file name="nomq_index.css" crc="455904603" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="team.css" crc="3905697536" ref="team"/>
+    <file name="nomq_team.css" crc="464444065" ref="team"/>
+    <file name="iefonts_team.css" crc="3824530138" ref="team"/>
+    <file name="work.css" crc="3874918421" ref="work"/>
+    <file name="nomq_work.css" crc="4197662095" ref="work"/>
+    <file name="iefonts_work.css" crc="3824530138" ref="work"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
@@ -1124,8 +1124,8 @@
     <file name="u47509-55.png" crc="18403026" ref="contact"/>
     <file name="u47509-5_2x5.png" crc="199895926" ref="contact"/>
   </folder>
-  <file name="index.html" crc="304388787" seo="true" mt="1601423829619" redirect="true"/>
-  <file name="team.html" crc="529594441" seo="true" mt="1601424046618" redirect="true"/>
-  <file name="work.html" crc="166925168" seo="true" mt="1601424701613" redirect="true"/>
-  <file name="contact.html" crc="4160152314" seo="true" mt="1601423752457" redirect="true"/>
+  <file name="index.html" crc="378734530" seo="true" mt="1601444639907" redirect="true"/>
+  <file name="team.html" crc="3779350272" seo="true" mt="1601444639907" redirect="true"/>
+  <file name="work.html" crc="4139595014" seo="true" mt="1601444639907" redirect="true"/>
+  <file name="contact.html" crc="179084990" seo="true" mt="1601444639907" redirect="true"/>
 </manifest>
