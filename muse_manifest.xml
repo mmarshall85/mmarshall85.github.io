@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1601444904810">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1601622938646">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4057195632" ref="contact:index:team:work"/>
-    <file name="nomq_preview_master_a-master.css" crc="174378947" ref="contact:index:team:work"/>
-    <file name="contact.css" crc="4059826973" ref="contact"/>
+    <file name="master_a-master.css" crc="139673355" ref="contact:index:work:team"/>
+    <file name="nomq_preview_master_a-master.css" crc="3900544575" ref="contact:index:work:team"/>
+    <file name="contact.css" crc="57739348" ref="contact"/>
     <file name="nomq_contact.css" crc="4209197044" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="index.css" crc="42450885" ref="index"/>
-    <file name="nomq_index.css" crc="455904603" ref="index"/>
+    <file name="index.css" crc="3758443019" ref="index"/>
+    <file name="nomq_index.css" crc="228610593" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="team.css" crc="3905697536" ref="team"/>
+    <file name="work.css" crc="3829058103" ref="work"/>
+    <file name="nomq_work.css" crc="4212828329" ref="work"/>
+    <file name="iefonts_work.css" crc="3824530138" ref="work"/>
+    <file name="team.css" crc="131048445" ref="team"/>
     <file name="nomq_team.css" crc="464444065" ref="team"/>
     <file name="iefonts_team.css" crc="3824530138" ref="team"/>
-    <file name="work.css" crc="3874918421" ref="work"/>
-    <file name="nomq_work.css" crc="4197662095" ref="work"/>
-    <file name="iefonts_work.css" crc="3824530138" ref="work"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
@@ -46,7 +46,7 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="161241974" ref="index"/>
-    <file name="halevailogo.png" crc="437268329" ref="index">
+    <file name="halevailogo.png" crc="173744168" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -67,10 +67,7 @@
     </file>
     <file name="soelyachts2-u39537-fr.jpg" crc="4267864696" ref="index"/>
     <file name="education2-u39552-fr.png" crc="3852798439" ref="index"/>
-    <file name="nutrition.jpg" crc="44101508" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nutrition_2x.jpg" crc="3783719532" ref="index">
+    <file name="nutrition2.jpg" crc="4225024578" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="materials2.jpg" crc="3761076860" ref="index">
@@ -90,13 +87,9 @@
     <file name="education2.png" crc="225656344" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nutrition-u39583-fr.jpg" crc="319125626" ref="index"/>
-    <file name="nutrition-u39583-fr_2x.jpg" crc="81037811" ref="index"/>
     <file name="u39515-53.png" crc="4265464489" ref="index"/>
     <file name="u39515-5_2x3.png" crc="375916364" ref="index"/>
     <file name="soelyachts2-u39537-fr3.jpg" crc="3809767249" ref="index"/>
-    <file name="nutrition-u39583-fr2.jpg" crc="4189296086" ref="index"/>
-    <file name="nutrition-u39583-fr_2x2.jpg" crc="199309641" ref="index"/>
     <file name="u40103.png" crc="3790938784" ref="index:team:work:contact"/>
     <file name="u40103_2x.png" crc="347119123" ref="index:team:work:contact"/>
     <file name="u40103-a.png" crc="4102240249" ref="index:team:work:contact"/>
@@ -105,14 +98,10 @@
     <file name="u39515-5_2x4.png" crc="246100781" ref="index"/>
     <file name="soelyachts2-u39537-fr4.jpg" crc="342690064" ref="index"/>
     <file name="education2-u39552-fr2.png" crc="3816576981" ref="index"/>
-    <file name="nutrition-u39583-fr3.jpg" crc="40164499" ref="index"/>
-    <file name="nutrition-u39583-fr_2x3.jpg" crc="111681815" ref="index"/>
     <file name="u39515-55.png" crc="3955728558" ref="index"/>
     <file name="u39515-5_2x5.png" crc="132737835" ref="index"/>
     <file name="soelyachts2-u39537-fr5.jpg" crc="335374407" ref="index"/>
     <file name="education2-u39552-fr3.png" crc="367389360" ref="index"/>
-    <file name="nutrition-u39583-fr4.jpg" crc="320172800" ref="index"/>
-    <file name="nutrition-u39583-fr_2x4.jpg" crc="3808347028" ref="index"/>
     <file name="sea-surface-water-wave-ripple-f6scqlb.jpg" crc="267982064" ref="team">
       <caption webpage="team" alt=""/>
     </file>
@@ -211,16 +200,6 @@
       <caption webpage="team" alt=""/>
     </file>
     <file name="arrow-right.gif" crc="4088757930" ref="team:work">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
@@ -231,23 +210,18 @@
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
     <file name="close.gif" crc="3848828447" ref="team:work">
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
@@ -258,6 +232,21 @@
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
     </file>
     <file name="amfar-u43605-fr.png" crc="318462246" ref="team"/>
     <file name="artbasel-u43562-fr.png" crc="339663784" ref="team"/>
@@ -659,6 +648,9 @@
     <file name="kollectiv2_2x.png" crc="3851761261" ref="work">
       <caption webpage="work" alt=""/>
     </file>
+    <file name="u49744-4.png" crc="4045972183" ref="work"/>
+    <file name="u49744-4_2x.png" crc="60224291" ref="work"/>
+    <file name="halevailogo-u49730-fr.png" crc="211664034" ref="work"/>
     <file name="kollectivhero.jpg" crc="398504699" ref="work">
       <caption webpage="work" alt=""/>
     </file>
@@ -674,6 +666,8 @@
     <file name="soelyachtshero_2x.jpg" crc="235990213" ref="work">
       <caption webpage="work" alt=""/>
     </file>
+    <file name="u49758-4.png" crc="4277897795" ref="work"/>
+    <file name="u49758-4_2x.png" crc="497567714" ref="work"/>
     <file name="barbados2.png" crc="280427038" ref="work">
       <caption webpage="work" alt=""/>
     </file>
@@ -684,16 +678,22 @@
       <caption webpage="work" alt=""/>
     </file>
     <file name="medsea-u46673-fr.png" crc="4000062116" ref="work"/>
+    <file name="halevailogo-u49649-3.png" crc="3918372698" ref="work"/>
+    <file name="u49650-5.png" crc="3990640016" ref="work"/>
+    <file name="u49650-5_2x.png" crc="4092614068" ref="work"/>
+    <file name="u49772-4.png" crc="60486162" ref="work"/>
+    <file name="u49772-4_2x.png" crc="57256202" ref="work"/>
     <file name="-fortheoceans.png" crc="15248478" ref="work">
       <caption webpage="work" alt=""/>
     </file>
     <file name="-fortheoceans_2x.png" crc="105595146" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="u48573-4.png" crc="4055948149" ref="work"/>
-    <file name="u48573-4_2x.png" crc="297430942" ref="work"/>
-    <file name="u48580-5.png" crc="4045194273" ref="work"/>
-    <file name="u48580-5_2x.png" crc="532387870" ref="work"/>
+    <file name="halevailogo-u48573-3.png" crc="3918372698" ref="work"/>
+    <file name="u48580-5.png" crc="3990640016" ref="work"/>
+    <file name="u48580-5_2x.png" crc="4092614068" ref="work"/>
+    <file name="u49906-4.png" crc="65280640" ref="work"/>
+    <file name="u49906-4_2x.png" crc="4055423006" ref="work"/>
     <file name="medseahero.jpg" crc="422574816" ref="work">
       <caption webpage="work" alt=""/>
     </file>
@@ -802,17 +802,27 @@
     <file name="u46360-5_2x2.png" crc="17625282" ref="work"/>
     <file name="earth_and_limb_m1199291564l_color_2stretch_mask_0-u48182-fr2.jpg" crc="88018983" ref="work"/>
     <file name="female_scientist_gettyimages_554996401-u48238-fr.jpg" crc="516491013" ref="work"/>
+    <file name="u49744-42.png" crc="3815929987" ref="work"/>
+    <file name="u49744-4_2x2.png" crc="110673237" ref="work"/>
     <file name="kollectivhero2.jpg" crc="4251636174" ref="work">
       <caption webpage="work" alt=""/>
     </file>
     <file name="kollectivhero_2x.jpg" crc="398504699" ref="work">
       <caption webpage="work" alt=""/>
     </file>
+    <file name="u49758-42.png" crc="4277897795" ref="work"/>
+    <file name="u49758-4_2x2.png" crc="497567714" ref="work"/>
     <file name="medsea-u46673-fr2.png" crc="263026252" ref="work"/>
-    <file name="u48573-42.png" crc="4055948149" ref="work"/>
-    <file name="u48573-4_2x2.png" crc="297430942" ref="work"/>
-    <file name="u48580-52.png" crc="4045194273" ref="work"/>
-    <file name="u48580-5_2x2.png" crc="532387870" ref="work"/>
+    <file name="halevailogo-u49649-32.png" crc="55709610" ref="work"/>
+    <file name="u49650-52.png" crc="3990640016" ref="work"/>
+    <file name="u49650-5_2x2.png" crc="4092614068" ref="work"/>
+    <file name="u49772-42.png" crc="4202855278" ref="work"/>
+    <file name="u49772-4_2x2.png" crc="16521504" ref="work"/>
+    <file name="halevailogo-u48573-32.png" crc="27195378" ref="work"/>
+    <file name="u48580-52.png" crc="3990640016" ref="work"/>
+    <file name="u48580-5_2x2.png" crc="4092614068" ref="work"/>
+    <file name="u49906-42.png" crc="108591062" ref="work"/>
+    <file name="u49906-4_2x2.png" crc="406391920" ref="work"/>
     <file name="leanorb-u46246-fr.jpg" crc="424418114" ref="work"/>
     <file name="pangaia02-u46250-fr2.jpg" crc="385105091" ref="work"/>
     <file name="kollectiv_food-u46251-fr.jpg" crc="517744628" ref="work"/>
@@ -869,17 +879,30 @@
     <file name="u46360-5_2x3.png" crc="265905703" ref="work"/>
     <file name="earth_and_limb_m1199291564l_color_2stretch_mask_0-u48182-fr3.jpg" crc="367339925" ref="work"/>
     <file name="female_scientist_gettyimages_554996401-u48238-fr2.jpg" crc="4217222779" ref="work"/>
+    <file name="kollectiv2-u46481-fr.png" crc="428876895" ref="work"/>
+    <file name="kollectiv2-u46481-fr_2x.png" crc="4103994650" ref="work"/>
+    <file name="u49744-43.png" crc="4277996673" ref="work"/>
+    <file name="u49744-4_2x3.png" crc="3991682615" ref="work"/>
+    <file name="halevailogo-u49730-fr2.png" crc="356173853" ref="work"/>
     <file name="kollectivhero-u46417-fr.jpg" crc="3898714477" ref="work"/>
     <file name="kollectivhero-u46417-fr_2x.jpg" crc="427422345" ref="work"/>
     <file name="soelyachtshero-u46517-fr.jpg" crc="228149322" ref="work"/>
     <file name="soelyachtshero-u46517-fr_2x.jpg" crc="426750128" ref="work"/>
+    <file name="u49758-43.png" crc="4277897795" ref="work"/>
+    <file name="u49758-4_2x3.png" crc="497567714" ref="work"/>
     <file name="medsea-u46673-fr3.png" crc="4065393889" ref="work"/>
+    <file name="halevailogo-u49649-33.png" crc="4292819806" ref="work"/>
+    <file name="u49650-53.png" crc="3990640016" ref="work"/>
+    <file name="u49650-5_2x3.png" crc="4092614068" ref="work"/>
+    <file name="u49772-43.png" crc="31891480" ref="work"/>
+    <file name="u49772-4_2x3.png" crc="469940538" ref="work"/>
     <file name="-fortheoceans-u48550-fr.png" crc="67828070" ref="work"/>
     <file name="-fortheoceans-u48550-fr_2x.png" crc="329028395" ref="work"/>
-    <file name="u48573-43.png" crc="3946801861" ref="work"/>
-    <file name="u48573-4_2x3.png" crc="519268432" ref="work"/>
-    <file name="u48580-53.png" crc="4045194273" ref="work"/>
-    <file name="u48580-5_2x3.png" crc="532387870" ref="work"/>
+    <file name="halevailogo-u48573-33.png" crc="3938653516" ref="work"/>
+    <file name="u48580-53.png" crc="3990640016" ref="work"/>
+    <file name="u48580-5_2x3.png" crc="4092614068" ref="work"/>
+    <file name="u49906-43.png" crc="432582036" ref="work"/>
+    <file name="u49906-4_2x3.png" crc="3832476991" ref="work"/>
     <file name="medseahero-u46671-fr.jpg" crc="309156622" ref="work"/>
     <file name="medseahero-u46671-fr_2x.jpg" crc="146260941" ref="work"/>
     <file name="sdg-en-12130x133.jpg" crc="161579305" seo="true" ref="work">
@@ -943,10 +966,15 @@
     <file name="u46360-5_2x4.png" crc="3933828631" ref="work"/>
     <file name="earth_and_limb_m1199291564l_color_2stretch_mask_0-u48182-fr4.jpg" crc="419177813" ref="work"/>
     <file name="female_scientist_gettyimages_554996401-u48238-fr3.jpg" crc="301667894" ref="work"/>
+    <file name="kollectiv2-u46481-fr2.png" crc="449464540" ref="work"/>
+    <file name="u49744-44.png" crc="109431427" ref="work"/>
+    <file name="u49744-4_2x4.png" crc="34725837" ref="work"/>
     <file name="kollectivhero-u46417-fr2.jpg" crc="4293549197" ref="work"/>
     <file name="kollectivhero-u46417-fr_2x2.jpg" crc="380872940" ref="work"/>
     <file name="soelyachtshero-u46517-fr2.jpg" crc="3768101552" ref="work"/>
     <file name="soelyachtshero-u46517-fr_2x2.jpg" crc="158726065" ref="work"/>
+    <file name="u49758-44.png" crc="4277897795" ref="work"/>
+    <file name="u49758-4_2x4.png" crc="497567714" ref="work"/>
     <file name="barbadoshero2.jpg" crc="270113083" ref="work">
       <caption webpage="work" alt=""/>
     </file>
@@ -954,12 +982,18 @@
       <caption webpage="work" alt=""/>
     </file>
     <file name="medsea-u46673-fr4.png" crc="492270074" ref="work"/>
+    <file name="halevailogo-u49649-34.png" crc="3918372698" ref="work"/>
+    <file name="u49650-54.png" crc="3990640016" ref="work"/>
+    <file name="u49650-5_2x4.png" crc="4092614068" ref="work"/>
+    <file name="u49772-44.png" crc="47609027" ref="work"/>
+    <file name="u49772-4_2x4.png" crc="25040918" ref="work"/>
     <file name="-fortheoceans-u48550-fr2.png" crc="353836556" ref="work"/>
     <file name="-fortheoceans-u48550-fr_2x2.png" crc="4129186411" ref="work"/>
-    <file name="u48573-44.png" crc="4025862212" ref="work"/>
-    <file name="u48573-4_2x4.png" crc="44181793" ref="work"/>
-    <file name="u48580-54.png" crc="4045194273" ref="work"/>
-    <file name="u48580-5_2x4.png" crc="532387870" ref="work"/>
+    <file name="halevailogo-u48573-34.png" crc="3918372698" ref="work"/>
+    <file name="u48580-54.png" crc="3990640016" ref="work"/>
+    <file name="u48580-5_2x4.png" crc="4092614068" ref="work"/>
+    <file name="u49906-44.png" crc="278277858" ref="work"/>
+    <file name="u49906-4_2x4.png" crc="252347121" ref="work"/>
     <file name="medseahero-u46671-fr2.jpg" crc="210737133" ref="work"/>
     <file name="medseahero-u46671-fr_2x2.jpg" crc="88366011" ref="work"/>
     <file name="sdg-en-12130x131.jpg" crc="4195557023" seo="true" ref="work">
@@ -1024,20 +1058,32 @@
     <file name="u46360-5_2x5.png" crc="199895926" ref="work"/>
     <file name="earth_and_limb_m1199291564l_color_2stretch_mask_0-u48182-fr5.jpg" crc="455785426" ref="work"/>
     <file name="female_scientist_gettyimages_554996401-u48238-fr4.jpg" crc="4238260051" ref="work"/>
+    <file name="kollectiv2-u46481-fr3.png" crc="473358636" ref="work"/>
+    <file name="kollectiv2-u46481-fr_2x2.png" crc="4291470174" ref="work"/>
+    <file name="halevailogo-u49730-fr3.png" crc="3919765136" ref="work"/>
+    <file name="u49744-45.png" crc="4215846750" ref="work"/>
+    <file name="u49744-4_2x5.png" crc="493176725" ref="work"/>
     <file name="kollectivhero-u46417-fr3.jpg" crc="3977565362" ref="work"/>
     <file name="kollectivhero-u46417-fr_2x3.jpg" crc="4241462942" ref="work"/>
     <file name="soelyachtshero-u46517-fr3.jpg" crc="4158762654" ref="work"/>
     <file name="soelyachtshero-u46517-fr_2x3.jpg" crc="246590208" ref="work"/>
+    <file name="u49758-45.png" crc="289258297" ref="work"/>
+    <file name="u49758-4_2x5.png" crc="335316382" ref="work"/>
     <file name="barbadoshero-u46599-fr.jpg" crc="338673305" ref="work"/>
     <file name="barbadoshero-u46599-fr_2x.jpg" crc="4248403825" ref="work"/>
-    <file name="medsea-u46673-fr5.png" crc="4208310291" ref="work"/>
+    <file name="medsea-u46673-fr5.png" crc="350775369" ref="work"/>
+    <file name="halevailogo-u49649-35.png" crc="4203339301" ref="work"/>
+    <file name="u49650-55.png" crc="507666094" ref="work"/>
+    <file name="u49650-5_2x5.png" crc="228174189" ref="work"/>
+    <file name="u49772-45.png" crc="4058433311" ref="work"/>
+    <file name="u49772-4_2x5.png" crc="4122115323" ref="work"/>
     <file name="-fortheoceans-u48550-fr3.png" crc="334819555" ref="work"/>
     <file name="-fortheoceans-u48550-fr_2x3.png" crc="4047051784" ref="work"/>
-    <file name="medsea-u48508-fr.png" crc="350775369" ref="work"/>
-    <file name="u48573-45.png" crc="4101242398" ref="work"/>
-    <file name="u48573-4_2x5.png" crc="4099504834" ref="work"/>
-    <file name="u48580-55.png" crc="4242889349" ref="work"/>
-    <file name="u48580-5_2x5.png" crc="4009041469" ref="work"/>
+    <file name="halevailogo-u48573-35.png" crc="4203339301" ref="work"/>
+    <file name="u48580-55.png" crc="507666094" ref="work"/>
+    <file name="u48580-5_2x5.png" crc="228174189" ref="work"/>
+    <file name="u49906-45.png" crc="114002124" ref="work"/>
+    <file name="u49906-4_2x5.png" crc="494957455" ref="work"/>
     <file name="medseahero-u46671-fr3.jpg" crc="4162023256" ref="work"/>
     <file name="medseahero-u46671-fr_2x3.jpg" crc="4047274428" ref="work"/>
     <file name="sdg-en-1280x81.jpg" crc="57726895" seo="true" ref="work">
@@ -1124,8 +1170,8 @@
     <file name="u47509-55.png" crc="18403026" ref="contact"/>
     <file name="u47509-5_2x5.png" crc="199895926" ref="contact"/>
   </folder>
-  <file name="index.html" crc="378734530" seo="true" mt="1601444639907" redirect="true"/>
-  <file name="team.html" crc="3779350272" seo="true" mt="1601444639907" redirect="true"/>
-  <file name="work.html" crc="4139595014" seo="true" mt="1601444639907" redirect="true"/>
-  <file name="contact.html" crc="179084990" seo="true" mt="1601444639907" redirect="true"/>
+  <file name="index.html" crc="3842044562" seo="true" mt="1601617887568" redirect="true"/>
+  <file name="team.html" crc="167422341" seo="true" mt="1601617887568" redirect="true"/>
+  <file name="work.html" crc="4015959068" seo="true" mt="1601622784637" redirect="true"/>
+  <file name="contact.html" crc="203194271" seo="true" mt="1601617887568" redirect="true"/>
 </manifest>
