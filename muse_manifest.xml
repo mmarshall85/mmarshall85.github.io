@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1601623903888">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1601650104743">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="139673355" ref="contact:index:work:team"/>
-    <file name="nomq_preview_master_a-master.css" crc="3900544575" ref="contact:index:work:team"/>
-    <file name="contact.css" crc="57739348" ref="contact"/>
-    <file name="nomq_contact.css" crc="4209197044" ref="contact"/>
-    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="index.css" crc="3758443019" ref="index"/>
-    <file name="nomq_index.css" crc="228610593" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="work.css" crc="3829058103" ref="work"/>
-    <file name="nomq_work.css" crc="4212828329" ref="work"/>
-    <file name="iefonts_work.css" crc="3824530138" ref="work"/>
-    <file name="team.css" crc="131048445" ref="team"/>
+    <file name="master_a-master.css" crc="4140790079" ref="team:index:contact:work"/>
+    <file name="nomq_preview_master_a-master.css" crc="3900544575" ref="team:index:contact:work"/>
+    <file name="team.css" crc="4077423677" ref="team"/>
     <file name="nomq_team.css" crc="464444065" ref="team"/>
     <file name="iefonts_team.css" crc="3824530138" ref="team"/>
+    <file name="index.css" crc="4279975911" ref="index"/>
+    <file name="nomq_index.css" crc="261835311" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="contact.css" crc="3980220823" ref="contact"/>
+    <file name="nomq_contact.css" crc="4209197044" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
+    <file name="work.css" crc="36513516" ref="work"/>
+    <file name="nomq_work.css" crc="4212828329" ref="work"/>
+    <file name="iefonts_work.css" crc="3824530138" ref="work"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
@@ -200,16 +200,6 @@
       <caption webpage="team" alt=""/>
     </file>
     <file name="arrow-right.gif" crc="4088757930" ref="team:work">
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
@@ -220,8 +210,33 @@
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="close.gif" crc="3848828447" ref="team:work">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
@@ -232,21 +247,6 @@
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
     </file>
     <file name="amfar-u43605-fr.png" crc="318462246" ref="team"/>
     <file name="artbasel-u43562-fr.png" crc="339663784" ref="team"/>
@@ -1170,8 +1170,8 @@
     <file name="u47509-55.png" crc="18403026" ref="contact"/>
     <file name="u47509-5_2x5.png" crc="199895926" ref="contact"/>
   </folder>
-  <file name="index.html" crc="389825782" seo="true" mt="1601623673553" redirect="true"/>
-  <file name="team.html" crc="167422341" seo="true" mt="1601617887568" redirect="true"/>
-  <file name="work.html" crc="4039610284" seo="true" mt="1601623636009" redirect="true"/>
-  <file name="contact.html" crc="203194271" seo="true" mt="1601617887568" redirect="true"/>
+  <file name="index.html" crc="200909500" seo="true" mt="1601649956044" redirect="true"/>
+  <file name="team.html" crc="8976826" seo="true" mt="1601617887568" redirect="true"/>
+  <file name="work.html" crc="4153441689" seo="true" mt="1601623636009" redirect="true"/>
+  <file name="contact.html" crc="71181887" seo="true" mt="1601617887568" redirect="true"/>
 </manifest>
