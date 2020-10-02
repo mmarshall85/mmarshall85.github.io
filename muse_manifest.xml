@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1601622938646">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.halevai.net" resolutions="1x,2x" timestamp="1601623903888">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="139673355" ref="contact:index:work:team"/>
@@ -1170,8 +1170,8 @@
     <file name="u47509-55.png" crc="18403026" ref="contact"/>
     <file name="u47509-5_2x5.png" crc="199895926" ref="contact"/>
   </folder>
-  <file name="index.html" crc="3842044562" seo="true" mt="1601617887568" redirect="true"/>
+  <file name="index.html" crc="389825782" seo="true" mt="1601623673553" redirect="true"/>
   <file name="team.html" crc="167422341" seo="true" mt="1601617887568" redirect="true"/>
-  <file name="work.html" crc="4015959068" seo="true" mt="1601622784637" redirect="true"/>
+  <file name="work.html" crc="4039610284" seo="true" mt="1601623636009" redirect="true"/>
   <file name="contact.html" crc="203194271" seo="true" mt="1601617887568" redirect="true"/>
 </manifest>
